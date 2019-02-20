@@ -1,7 +1,8 @@
 # GGJ2019
-Global Game Jam January 2019.
+A 3D RTS game for PC developed by the Kodebolds for the Global Game Jam January 2019.
 
 We had 48 hours to make a game based on the theme, which was "What Home means to You".
+
 We decided to use two of the diversifiers:
 - Thomas Wasn't Alone (Use only simple shapes (cubes, triangles, circles, etc.) to represent every single element (characters, HUD, etc.) inside the game.)
 - Wanderlust (Your game tries to awaken interest in travel and visiting new places, with a focus on your home town.)
